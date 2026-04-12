@@ -14,3 +14,9 @@ infrastructure as code, and cloud deployment.
 - [I would like to learn or advance my security knowledge]
 ## Fun Fact
 [one time i hurt my right leg and start using my left leg to play soccer now i can us both legs to play]
+
+## My Week 2 Infrastructure
+ 
+Runner VM: a-runner
+Runner IP: YOUR-RUNNER-IP #fake ip
+Pipeline status: [![Hello Pipeline](https://github.com/bezg098/cis-410-cybersecurity-automation/actions/workflows/hello-pipeline.yml/badge.svg)](https://github.com/bezg098/cis-410-cybersecurity-automation/actions/workflows/hello-pipeline.yml)
