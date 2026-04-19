@@ -22,7 +22,7 @@
 #   Step 2 — Run THIS workflow manually to configure sudo and install Docker
 #   Step 3 — Then push app files to trigger deploy-dev.yml
 # ─────────────────────────────────────────────────────────────────────────────
-name: "Setup - Dev Server"
+name: "Setup — Dev Server"
 on:
   workflow_dispatch:   # Manual trigger only — no automatic runs
 jobs:
