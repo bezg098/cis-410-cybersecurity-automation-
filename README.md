@@ -19,4 +19,4 @@ infrastructure as code, and cloud deployment.
  
 Runner VM: a-runner
 Runner IP: YOUR-RUNNER-IP #fake ip
-Pipeline status: [![Hello Pipeline](https://github.com/bezg098/cis-410-cybersecurity-automation/actions/workflows/hello-pipeline.yml/badge.svg)](https://github.com/bezg098/cis-410-cybersecurity-automation/actions/workflows/hello-pipeline.yml)
+Pipeline status: [![Hello Pipeline](https://github.com/bezg098/cis-410-cybersecurity-automation/actions/workflows/hello-pipeline.yml/badge.svg)](https://github.com/bezg098/cis-410-cybersecurity-automation/actions/workflows/hello-pipeline.yml)# Week 5 security scan test
